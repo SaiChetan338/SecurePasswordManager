@@ -9,6 +9,6 @@
     "express": "^4.18.2",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
-    "@lighthouse-web3/sdk": "^2.0.8"
+    "@lighthouse-web3/sdk": "^3.0.0"
   }
 }
